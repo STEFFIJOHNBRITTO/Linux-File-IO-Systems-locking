@@ -152,10 +152,12 @@ int main(int argc, char *argv[]) {
 
 # C program that illustrates files copying 
 
+![image](https://github.com/user-attachments/assets/18c5c951-95d6-462f-b233-78b029d20182)
 
 
 # C program that illustrates files locking
 
+![image](https://github.com/user-attachments/assets/8ad586c6-af05-4ed5-8fe4-1b64eee4a196)
 
 
 # RESULT:
